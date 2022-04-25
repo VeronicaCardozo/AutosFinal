@@ -1,0 +1,13 @@
+{
+  "name": "Text Content",
+  "unique_id": "uJlha5Ck",
+  "parent": "FBOUZMnx",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "tu auto cerca"
+  }
+}

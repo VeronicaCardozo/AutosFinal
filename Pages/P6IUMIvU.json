@@ -1,0 +1,16 @@
+{
+  "name": "function",
+  "unique_id": "P6IUMIvU",
+  "parent": "oLVUmyQQ",
+  "path": "function.tpl",
+  "completePath": "elements\\Programming\\function.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "function",
+  "values": {
+    "functionName": "Formulario",
+    "functionParameters": "",
+    "functionBody": "let data= {...Formulariodata};\nsetFormularioData({ ...initialDataFormulario })"
+  }
+}

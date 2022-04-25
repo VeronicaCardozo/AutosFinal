@@ -1,0 +1,39 @@
+{
+  "_id": "vMHNWOFl3ECfTKBi",
+  "createdAt": 1650727796583,
+  "modifiedAt": 1650923258167,
+  "lastSaved": 1650923258166,
+  "settings": {
+    "name": "Autos",
+    "description": "No description given",
+    "development": {
+      "type": "Local",
+      "url": "https://autos_.aptugo.com",
+      "folder": "Autos",
+      "template": "5ec1574d22999c4a5e8e0dc7",
+      "apiURL": "http://127.0.0.1:4567",
+      "dbconnectstring": "mongodb://127.0.0.1:27017/",
+      "variables": ""
+    },
+    "stagging": {
+      "type": "Local",
+      "url": "https://autos_.aptugo.com",
+      "folder": "Autos_stagging",
+      "template": "5ec1574d22999c4a5e8e0dc7",
+      "apiURL": "https://Autos_veritoocardozohotmailcom.aptugo.app",
+      "dbconnectstring": "mongodb://127.0.0.1:27017/",
+      "variables": ""
+    },
+    "production": {
+      "type": "Remote (Aptugo)",
+      "url": "https://autos_veritoocardozohotmailcom.aptugo.app",
+      "folder": "Autos",
+      "template": "5ec1574d22999c4a5e8e0dc7",
+      "apiURL": "https://autos_veritoocardozohotmailcom.backend.aptugo.app",
+      "dbconnectstring": "mongodb://127.0.0.1:27017/autos",
+      "variables": ""
+    },
+    "lastSaved": null,
+    "lastBuild": null
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "image",
+  "unique_id": "OeGyTVJt",
+  "parent": "o5TlbeuN",
+  "path": "image.tpl",
+  "completePath": "elements/Material-UI/image.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "image",
+  "values": {
+    "useAsset": "asKzT2fN",
+    "className": "theme.left"
+  }
+}

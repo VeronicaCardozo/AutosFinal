@@ -1,0 +1,12 @@
+{
+  "name": "typography",
+  "unique_id": "KTwi9UHA",
+  "parent": "VXcNTPci",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "typography",
+  "values": {
+    "tag": "h1"
+  }
+}

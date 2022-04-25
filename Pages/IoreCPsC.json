@@ -1,0 +1,12 @@
+{
+  "name": "div",
+  "unique_id": "IoreCPsC",
+  "parent": "ZUkWMPun",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "div",
+  "values": {
+    "class": "theme.mainarea"
+  }
+}

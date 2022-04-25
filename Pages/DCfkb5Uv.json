@@ -1,0 +1,11 @@
+{
+  "name": "GoogleMaps",
+  "unique_id": "DCfkb5Uv",
+  "parent": "adq1zZZn",
+  "path": "GoogleMaps.tpl",
+  "completePath": "elements\\Geo\\GoogleMaps.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "GoogleMaps"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Seccion4",
+  "unique_id": "wPICFx3w",
+  "parent": "dlADms1T",
+  "path": "div.tpl",
+  "completePath": "elements/Basic/div.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "div",
+  "values": {
+    "class": "theme.cuarta"
+  }
+}

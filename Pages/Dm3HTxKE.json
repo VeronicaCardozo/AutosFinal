@@ -1,0 +1,16 @@
+{
+  "name": "Load Formulario from Database",
+  "unique_id": "Dm3HTxKE",
+  "parent": "oLVUmyQQ",
+  "path": "loadFromRedux.tpl",
+  "completePath": "elements/Programming/loadFromRedux.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "loadFromRedux",
+  "values": {
+    "data": "ChoX4Xxu",
+    "variableName": "sus",
+    "elementsLimit": "1"
+  }
+}

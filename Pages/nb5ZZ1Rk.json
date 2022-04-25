@@ -1,0 +1,15 @@
+{
+  "name": "Text Content",
+  "unique_id": "nb5ZZ1Rk",
+  "parent": "70sv5ofk",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "ClassName": "theme.h5",
+    "Content": "Servicio exclusivo para empresas. Ofrecemos marcas líderes, atención personalizada y los mejores beneficios para adquirir o renovar tu flota."
+  }
+}

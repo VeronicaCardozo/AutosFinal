@@ -1,0 +1,14 @@
+{
+  "name": "button",
+  "unique_id": "rhwwmPUJ",
+  "parent": "m9cigNuE",
+  "path": "button.tpl",
+  "completePath": "elements\\Material-UI\\button.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "button",
+  "values": {
+    "ButtonText": "AUTOS"
+  }
+}

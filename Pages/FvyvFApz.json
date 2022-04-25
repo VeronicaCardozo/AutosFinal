@@ -1,0 +1,15 @@
+{
+  "name": "themeSelection",
+  "unique_id": "FvyvFApz",
+  "parent": "3JXpym1b",
+  "path": "themeSelection.tpl",
+  "completePath": "elements/Experimental/themeSelection.tpl",
+  "collapseStatus": "collapse",
+  "cascades": true,
+  "type": "element",
+  "value": "themeSelection",
+  "values": {
+    "theme": "minimum",
+    "useAsset": "fapFDMil"
+  }
+}

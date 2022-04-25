@@ -1,0 +1,15 @@
+{
+  "name": "Text Content",
+  "unique_id": "4vTHGaz4",
+  "parent": "OU0QXMEv",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "¿Estás entre varias opciones?",
+    "ClassName": "theme.texto3"
+  }
+}

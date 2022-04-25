@@ -1,0 +1,14 @@
+{
+  "name": "code",
+  "unique_id": "KMENGLEe",
+  "parent": "pCBy3OhC",
+  "path": "code.tpl",
+  "completePath": "elements/Programming/code.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "code",
+  "values": {
+    "code": "setlang(langStrings[localStorage.getItem('aptugolang') || 'en'])"
+  }
+}

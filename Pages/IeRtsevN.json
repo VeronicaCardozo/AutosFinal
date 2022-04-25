@@ -1,0 +1,15 @@
+{
+  "name": "Language",
+  "unique_id": "IeRtsevN",
+  "parent": "88x03sOV",
+  "path": "useState.tpl",
+  "completePath": "elements/Programming/useState.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "useState",
+  "values": {
+    "variableName": "lang",
+    "defaultValue": "'en'"
+  }
+}

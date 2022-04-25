@@ -1,0 +1,14 @@
+{
+  "name": "Save to Database",
+  "unique_id": "fvGEhpys",
+  "parent": "P6IUMIvU",
+  "path": "saveToRedux.tpl",
+  "completePath": "elements\\Programming\\saveToRedux.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "saveToRedux",
+  "values": {
+    "data": "ChoX4Xxu"
+  }
+}

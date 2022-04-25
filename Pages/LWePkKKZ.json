@@ -1,0 +1,13 @@
+{
+  "name": "Text Content",
+  "unique_id": "LWePkKKZ",
+  "parent": "ZPHrBtzu",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "hholgdasdfhgfhjmnk"
+  }
+}

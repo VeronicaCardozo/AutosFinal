@@ -1,0 +1,15 @@
+{
+  "name": "Text Content",
+  "unique_id": "V0tTeTa8",
+  "parent": "3JUHOSaX",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Tu próximo auto, cada vez más cerca",
+    "ClassName": "theme.h3"
+  }
+}

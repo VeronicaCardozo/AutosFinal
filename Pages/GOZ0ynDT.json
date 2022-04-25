@@ -1,0 +1,14 @@
+{
+  "name": "Text Content",
+  "unique_id": "GOZ0ynDT",
+  "parent": "07JAPI2M",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "automotores"
+  }
+}
