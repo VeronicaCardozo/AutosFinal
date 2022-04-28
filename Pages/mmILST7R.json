@@ -1,0 +1,14 @@
+{
+  "name": "Marker",
+  "unique_id": "mmILST7R",
+  "parent": "lwDRMyDu",
+  "path": "Marker.tpl",
+  "completePath": "elements\\Geo\\Marker.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "Marker",
+  "values": {
+    "Position": "{AvMonseñorPabloCabrera2160}"
+  }
+}

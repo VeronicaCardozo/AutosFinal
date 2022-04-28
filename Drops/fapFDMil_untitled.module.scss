@@ -1,7 +1,8 @@
-@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Poppins:wght@600&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Lobster&family=Poppins:wght@600&family=Roboto&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Lobster&family=Poppins:wght@600&family=Roboto:wght@400;900&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Bangers&family=Lobster&family=Poppins:wght@600&family=Roboto:wght@400;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bangers&family=Carter+One&family=Lobster&family=Poppins:wght@600&family=Roboto:wght@400;900&display=swap');
+
 
 .primera{
     background-image: url(dist/img/desktop.jpg) !important;
@@ -10,8 +11,7 @@
 }
 
 .logo{
-    //padding: 20px;
-    display: flex;
+     display: flex;
     align-content: center;
     height: 130px;
     background-color: black;
@@ -106,47 +106,45 @@
     display: flex;
 }
 .segunda{
-    //background: conic-gradient(white,gray, black);
-    background: radial-gradient( white, black) ;
     height: 100vh;
     position: relative;
-    
 }
-// .todo{
-//     position: relative;
-// }
-
 .texto{
     display: flex;
     width: 50%;
-    //transform: translateX(-50%);
-    //position: absolute;
+    flex-direction: column-reverse;
     justify-content: center;
-    //margin-top: 100px;
-    height: 100px;
-    margin-left: 150px;
-    background-color: blue;
+    height: 200px;
+    margin-left: 380px;
 }
-
-
+.texto3{
+    color: black;
+    font-family: Poppins;
+    font-size: 36px;
+}
 .imagen{
     display: flex;
-    margin-top: 205px;
-    width: 100%;
+    margin-top: 110px;
+    width: 300%;
     height: 10px;
+    transition: all 300ms;
+    position: relative;
+}
+.imagen img:hover{
+    transform: scale(1.20);
+
 }
 .left{
     width: 400px;
     height: 300px;
     margin-left: 50px;
-    border: 4px solid white;
-    
+    border: 5px solid white;
 }
 .feat{
    display: flex;
     width: 400px;
     height: 300px;
-    border: 4px solid white;
+    border: 5px solid white;
     margin-left: 100px;
 }
 .ford{
@@ -154,13 +152,145 @@
     width: 400px;
     margin-left: 100px;
     margin-top: 10px;
-    border: 4px solid white;
+    border: 5px solid white;
     margin-right: 50px;
     
 }
 .tercera{
-    height: 100vh;
+   height: 100vh;
+}
+
+.contacto{
+    display: flex;
+    width: 50%;
+    flex-direction: column-reverse;
+    justify-content: center;
+    height: 99px;
+    margin-left: 300px;
+    color: black;
+    font-size: 46px;
+    font-family: Poppins;
+}
+.container3{
+    display: flex;
+    width: 100%;
+    height: 100px;
+    background: linear-gradient(black, white);
+
+}
+.sociales{
+    display: flex;
+    margin-right: 15px;
+    justify-content: center;
+    margin-top: 80px;
+   
+}
+.facebook{
+    margin-top: 5px;
+    width: 40px;
+    height: 40px;
+    border: 2px solid white;
+}
+.instagram{
+    width: 50px;
+    height: 50px;
+    margin-left: 50px;
+    border: 2px solid white;
+}
+.formulario{
+    display: flex;
+    width: 60%;
+    height: 300px;
+    margin-top: 100px;
+    margin-left: 200px;
+    border: 2px solid white;
+    flex-direction: column;
+    align-content: space-between;
+    
+}
+.formulario .enviar{
+    height: 50px;
+    //margin-left: 200px;
+    margin-top: 10px;
+    background-color: grey;
+    color: white;
 }
 .cuarta{
     height: 100vh;
+}
+.mapa{
+    display: flex;
+    width: 50%;
+    flex-direction: column-reverse;
+    justify-content: center;
+    height: 99px;
+    margin-left: 300px;
+}
+.container4{
+    display: flex;
+    width: 100%;
+    height: 100px;
+    background: linear-gradient(black, white);
+}
+.donde{
+    display: flex;
+    width: 80%;
+    height: 100px;
+    margin-left: 100px;
+    font-family: Poppins;
+    color: black;
+    font-size: 46px;
+    justify-content: center;
+    flex-direction: column-reverse;
+}
+.ubicacion1{
+    height: 50px;
+    margin-top: 150px;
+}
+.ubicacion{
+    display: flex;
+    width: 50px;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.ubicacion1 .punto{
+    width: 300px;
+    margin-left: 100px;
+    color: white;
+    background-color: black;
+}
+
+.transferencia{
+    display: flex;
+    width: 30%;
+    margin-left: 60%;
+    height: 300px;
+    margin-top: -1px;
+    border: 4px solid black;
+    
+}
+.llaves2{
+    display: flex;
+    width: 200px;
+    margin-left: 40%;
+    margin-top: 30px;
+    color: black;
+    font-size: 30px;
+    font-family: Poppins;
+    
+}
+
+.final{
+    display: flex;
+    height: 80px;
+    //margin-left: 10px;
+    justify-content: center;
+    flex-direction: column-reverse;
+    color: white;
+}
+.footer{
+    width: 100%;
+    bottom: 0;
+    height: 100px;
+    background-color: black;
 }

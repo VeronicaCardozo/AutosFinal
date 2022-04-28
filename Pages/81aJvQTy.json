@@ -1,0 +1,16 @@
+{
+  "name": "simpleLink",
+  "unique_id": "81aJvQTy",
+  "parent": "ZJ8GsV6E",
+  "path": "simpleLink.tpl",
+  "completePath": "elements\\Material-UI\\simpleLink.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "simpleLink",
+  "values": {
+    "tagToUse": "A",
+    "destination": "/autos",
+    "target": "_blank"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "simpleLink",
+  "unique_id": "XiXEoxhu",
+  "parent": "m9cigNuE",
+  "path": "simpleLink.tpl",
+  "completePath": "elements\\Material-UI\\simpleLink.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "simpleLink",
+  "values": {
+    "destination": "#Seccion3",
+    "tagToUse": "A"
+  }
+}

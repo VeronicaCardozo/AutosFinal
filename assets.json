@@ -31,22 +31,27 @@
   },
   {
     "type": "image",
-    "id": "erTTBK5G",
-    "name": "Limited.jpg"
-  },
-  {
-    "type": "image",
     "id": "pJU7DFQd",
     "name": "fr.jpg"
   },
   {
     "type": "image",
-    "id": "idbGGUnJ",
-    "name": "fondo.jpg"
+    "id": "83lDVrcU",
+    "name": "descarga.jpg"
   },
   {
     "type": "image",
-    "id": "4pThBnJe",
-    "name": "fabs.jpg"
+    "id": "WE6NUozT",
+    "name": "colorido.png"
+  },
+  {
+    "type": "image",
+    "id": "yN82M9dT",
+    "name": "fb.jpg"
+  },
+  {
+    "type": "image",
+    "id": "gzxMTvcL",
+    "name": "ubicacion.png"
   }
 ]

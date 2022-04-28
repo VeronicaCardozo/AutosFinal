@@ -1,0 +1,15 @@
+{
+  "name": "text",
+  "unique_id": "gMspKpf1",
+  "parent": "MqCxybW6",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "© 2022 Sportquatro! Todos los derechos reservados.",
+    "ClassName": "theme.final"
+  }
+}

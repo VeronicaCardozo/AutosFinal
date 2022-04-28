@@ -9,6 +9,7 @@
   "type": "element",
   "value": "div",
   "values": {
-    "class": "theme.cuarta"
+    "class": "theme.cuarta",
+    "id": "Seccion4"
   }
 }

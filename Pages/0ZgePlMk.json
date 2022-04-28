@@ -1,0 +1,16 @@
+{
+  "name": "snackbar",
+  "unique_id": "0ZgePlMk",
+  "parent": "dhZqWM4R",
+  "path": "snackbar.tpl",
+  "completePath": "elements\\Material-UI\\snackbar.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "snackbar",
+  "values": {
+    "autohide": "2000",
+    "varName": "OpenSnackbar",
+    "position": "Top-Center"
+  }
+}

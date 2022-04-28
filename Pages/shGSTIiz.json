@@ -1,0 +1,15 @@
+{
+  "name": "function",
+  "unique_id": "shGSTIiz",
+  "parent": "oLVUmyQQ",
+  "path": "function.tpl",
+  "completePath": "elements\\Programming\\function.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "function",
+  "values": {
+    "functionName": "enviar",
+    "functionBody": "let data = {...Formulariosdata} \n setFormulariosData({ ...initialDataFormularios })"
+  }
+}

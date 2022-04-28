@@ -1,0 +1,15 @@
+{
+  "name": "Text Content",
+  "unique_id": "zWbOLfJZ",
+  "parent": "S1w3FFfs",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "¿Dónde encontrarnos?",
+    "ClassName": "theme.donde"
+  }
+}

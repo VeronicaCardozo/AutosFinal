@@ -4,11 +4,12 @@
   "parent": "dlADms1T",
   "path": "div.tpl",
   "completePath": "elements/Basic/div.tpl",
-  "collapseStatus": "expand",
+  "collapseStatus": "collapse",
   "cascades": false,
   "type": "element",
   "value": "div",
   "values": {
-    "class": "theme.segunda"
+    "class": "theme.segunda",
+    "id": "Seccion2"
   }
 }

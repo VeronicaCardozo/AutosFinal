@@ -1,0 +1,14 @@
+{
+  "name": "Container",
+  "unique_id": "MqCxybW6",
+  "parent": "fdypnRG3",
+  "path": "Container.tpl",
+  "completePath": "elements\\Material-UI\\Container.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "Container",
+  "values": {
+    "className": "theme.container5"
+  }
+}

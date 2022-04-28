@@ -1,0 +1,16 @@
+{
+  "name": "simpleLink",
+  "unique_id": "N8zH0wQf",
+  "parent": "lwDRMyDu",
+  "path": "simpleLink.tpl",
+  "completePath": "elements\\Material-UI\\simpleLink.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "simpleLink",
+  "values": {
+    "tagToUse": "A",
+    "target": "_blank",
+    "destination": "https://goo.gl/maps/V1jM1eAchQb66wDU7"
+  }
+}

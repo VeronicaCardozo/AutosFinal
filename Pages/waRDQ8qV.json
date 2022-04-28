@@ -9,7 +9,7 @@
   "type": "element",
   "value": "simpleLink",
   "values": {
-    "destination": "/Seccion2",
-    "tagToUse": "NavLink"
+    "destination": "#Seccion1",
+    "tagToUse": "A"
   }
 }

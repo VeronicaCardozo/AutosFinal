@@ -1,0 +1,14 @@
+{
+  "name": "Sociales",
+  "unique_id": "mQFaptCL",
+  "parent": "E9CUmq4o",
+  "path": "div.tpl",
+  "completePath": "elements/Basic/div.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "div",
+  "values": {
+    "class": "theme.sociales"
+  }
+}

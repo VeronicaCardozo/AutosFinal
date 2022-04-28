@@ -1,0 +1,14 @@
+{
+  "name": "typography",
+  "unique_id": "LcKpfTZb",
+  "parent": "ceAx5Iwm",
+  "path": "typography.tpl",
+  "completePath": "elements/Material-UI/typography.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "typography",
+  "values": {
+    "tag": "h2"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Load Formulario Database",
+  "unique_id": "lxZaruD3",
+  "parent": "oLVUmyQQ",
+  "path": "loadFromRedux.tpl",
+  "completePath": "elements/Programming/loadFromRedux.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "loadFromRedux",
+  "values": {
+    "data": "V3T3xbO5",
+    "variableName": "formulario"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "alertMessage",
+  "unique_id": "0TSTdoiu",
+  "parent": "0ZgePlMk",
+  "path": "alertMessage.tpl",
+  "completePath": "elements\\Material-UI\\alertMessage.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "alertMessage",
+  "values": {
+    "severity": "success",
+    "title": "Enviado!",
+    "variant": "filled"
+  }
+}

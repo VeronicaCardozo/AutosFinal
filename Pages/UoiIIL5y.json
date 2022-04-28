@@ -1,0 +1,11 @@
+{
+  "name": "text",
+  "unique_id": "UoiIIL5y",
+  "parent": "mmILST7R",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "text"
+}

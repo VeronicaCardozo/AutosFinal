@@ -1,0 +1,15 @@
+{
+  "name": "Text Content",
+  "unique_id": "FyQqZxCM",
+  "parent": "LcKpfTZb",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Trabajamos con marcas de confianza",
+    "ClassName": "theme.texto3"
+  }
+}

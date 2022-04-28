@@ -1,0 +1,12 @@
+{
+  "name": "Table Toolbar",
+  "unique_id": "Qk395h2x",
+  "parent": "L1oNcb33",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "div",
+  "values": {
+    "class": "theme.tabletoolbar"
+  }
+}
